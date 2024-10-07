@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/frontend-ai-web-app/static/css/main.d694b4f7.css",
-    "main.js": "/frontend-ai-web-app/static/js/main.75ba5a60.js",
-    "static/js/453.8c8b0f65.chunk.js": "/frontend-ai-web-app/static/js/453.8c8b0f65.chunk.js",
-    "static/media/Saigon.mp4": "/frontend-ai-web-app/static/media/Saigon.c76867ccff3a578f1482.mp4",
-    "static/media/edits.mp4": "/frontend-ai-web-app/static/media/edits.2c3142d0d9d542819237.mp4",
-    "static/media/security.png": "/frontend-ai-web-app/static/media/security.5ad4a0112ba3ddd7841e.png",
-    "index.html": "/frontend-ai-web-app/index.html",
-    "static/media/info.svg": "/frontend-ai-web-app/static/media/info.1d7ceb93a8d47ba3a63d761319d13150.svg",
-    "static/media/fish.svg": "/frontend-ai-web-app/static/media/fish.e0f3800ac8ab41ca93236783a0d672db.svg",
-    "static/media/arrow-drop.svg": "/frontend-ai-web-app/static/media/arrow-drop.39b5c6703f86cb660579592395e5bc30.svg",
-    "main.d694b4f7.css.map": "/frontend-ai-web-app/static/css/main.d694b4f7.css.map",
-    "main.75ba5a60.js.map": "/frontend-ai-web-app/static/js/main.75ba5a60.js.map",
-    "453.8c8b0f65.chunk.js.map": "/frontend-ai-web-app/static/js/453.8c8b0f65.chunk.js.map"
+    "main.css": "/Frontend-ai-web-app/static/css/main.d694b4f7.css",
+    "main.js": "/Frontend-ai-web-app/static/js/main.4e613a1f.js",
+    "static/js/453.9ca35ee1.chunk.js": "/Frontend-ai-web-app/static/js/453.9ca35ee1.chunk.js",
+    "static/media/Saigon.mp4": "/Frontend-ai-web-app/static/media/Saigon.c76867ccff3a578f1482.mp4",
+    "static/media/edits.mp4": "/Frontend-ai-web-app/static/media/edits.2c3142d0d9d542819237.mp4",
+    "static/media/security.png": "/Frontend-ai-web-app/static/media/security.5ad4a0112ba3ddd7841e.png",
+    "index.html": "/Frontend-ai-web-app/index.html",
+    "static/media/info.svg": "/Frontend-ai-web-app/static/media/info.1d7ceb93a8d47ba3a63d761319d13150.svg",
+    "static/media/fish.svg": "/Frontend-ai-web-app/static/media/fish.e0f3800ac8ab41ca93236783a0d672db.svg",
+    "static/media/arrow-drop.svg": "/Frontend-ai-web-app/static/media/arrow-drop.39b5c6703f86cb660579592395e5bc30.svg",
+    "main.d694b4f7.css.map": "/Frontend-ai-web-app/static/css/main.d694b4f7.css.map",
+    "main.4e613a1f.js.map": "/Frontend-ai-web-app/static/js/main.4e613a1f.js.map",
+    "453.9ca35ee1.chunk.js.map": "/Frontend-ai-web-app/static/js/453.9ca35ee1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d694b4f7.css",
-    "static/js/main.75ba5a60.js"
+    "static/js/main.4e613a1f.js"
   ]
 }
